@@ -1,4 +1,4 @@
-name: ci-Delint 
+name: ci 
 on:
   push:
     branches:
